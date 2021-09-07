@@ -1,0 +1,30 @@
+﻿.login {
+    background: none !important;
+    position: absolute;
+}
+
+.backgroundstyle {
+    height: 300vh;
+    max-height: 300%;
+}
+
+
+.signin {
+    -webkit-border-radius: 80px 80px 80px 80px;
+    border-radius: 80px 80px 80px 80px;
+}
+
+.inputs {
+    -webkit-border-radius: 40px 40px 40px 40px;
+    border-radius: 40px 40px 40px 40px;
+}
+.padre {
+    display: flex;
+    justify-content: center;
+}
+
+.hijo {
+    padding: 10px;
+    margin: 10px;
+    background-color: yellow;
+}
